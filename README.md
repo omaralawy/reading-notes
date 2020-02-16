@@ -3,7 +3,7 @@
 
 | reade         | url           | mark  |
 | ------------- |:-------------:| -----:|
-|       read1   |               |       |
+|       read1   | https://omaralawy.github.io/reading-notes/read1 |       |
 |               |               |       |
 |               |               |       |
 
