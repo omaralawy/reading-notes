@@ -4,7 +4,7 @@
 | reade         | url           | mark  |
 | ------------- |:-------------:| -----:|
 |       read1   | [read1](https://omaralawy.github.io/reading-notes/read1)|
-|       read2   | [read1](https://omaralawy.github.io/reading-notes/read1)|
+|       read2   | [read2](https://omaralawy.github.io/reading-notes/read1)|
 
 
 thank
